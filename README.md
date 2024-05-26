@@ -27,11 +27,3 @@ Ao oferecer uma experiência de aprendizado mais estimulante e acessível, esper
 Objetivo Principal:
 Desenvolver uma aplicação de Realidade Aumentada que permita às crianças explorar e interagir com conceitos abstratos de forma visual e intuitiva.
 Proporcionar uma experiência educacional envolvente e personalizável, adaptada às necessidades e interesses individuais de cada criança.
-
-4. Resultados e Demonstração:
-Apresentação do aplicativo de Realidade Aumentada, mostrando sua interface amigável e recursos interativos.
-Demonstração prática do uso da aplicação em um contexto de sala de aula, com crianças explorando e aprendendo conceitos abstratos de forma lúdica e envolvente.
-Exibição da modelagem de objetos tridimensionais e animações que complementam a experiência educacional, tornando os conceitos mais palpáveis e compreensíveis para as crianças.
-Conclusão:
-O uso da Realidade Aumentada na educação infantil tem o potencial de revolucionar a forma como as crianças aprendem, tornando a educação mais inclusiva, acessível e eficaz.
-Ao investir em soluções inovadoras como essa, estamos não apenas melhorando a qualidade da educação, mas também preparando as crianças para enfrentar os desafios do futuro de forma mais criativa e informada.
